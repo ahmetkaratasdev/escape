@@ -1,157 +1,157 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T10:51:21.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="kE1QZ5HUCfbH8LCT5Bmn" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-27T10:52:47.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="STmCK2ityvegpNYmdr5B" version="17.2.4" type="github">
   <diagram id="Sbk7I84jaUP81W7RC8yo" name="Page-1">
     <mxGraphModel dx="2066" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CDA5UXkGIZM0-HjCLZbo-33" target="CDA5UXkGIZM0-HjCLZbo-37">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CDA5UXkGIZM0-HjCLZbo-33" target="CDA5UXkGIZM0-HjCLZbo-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="360" as="sourcePoint" />
             <mxPoint x="1590" y="-490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CDA5UXkGIZM0-HjCLZbo-37" target="CDA5UXkGIZM0-HjCLZbo-42">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CDA5UXkGIZM0-HjCLZbo-37" target="CDA5UXkGIZM0-HjCLZbo-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1350" y="-320" as="sourcePoint" />
             <mxPoint x="1260" y="-310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CDA5UXkGIZM0-HjCLZbo-31" target="CDA5UXkGIZM0-HjCLZbo-22">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CDA5UXkGIZM0-HjCLZbo-31" target="CDA5UXkGIZM0-HjCLZbo-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1630" y="-160" as="sourcePoint" />
             <mxPoint x="1630" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CDA5UXkGIZM0-HjCLZbo-58" target="CDA5UXkGIZM0-HjCLZbo-52">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CDA5UXkGIZM0-HjCLZbo-58" target="CDA5UXkGIZM0-HjCLZbo-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="130" as="sourcePoint" />
             <mxPoint x="490" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-11" value="fdsfsd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-1100" width="240" height="40" as="geometry" />
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-11" value="fdsfsd" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="-1040" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-12" value="Welcome Page" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-12" value="Welcome Page" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="190" y="-960" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-17" value="Welcome to Ahmet&#39;s Online Escape Room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-12">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-17" value="Welcome to Ahmet&#39;s Online Escape Room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-12" vertex="1">
           <mxGeometry x="100" y="90" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-12">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-12" vertex="1">
           <mxGeometry x="70" y="140" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-18" value="Hello user, we are in dire need of your aid!&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-12">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-18" value="Hello user, we are in dire need of your aid!&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-12" vertex="1">
           <mxGeometry x="120" y="190" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-31" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-12">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-31" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-12" vertex="1">
           <mxGeometry x="350" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-22" value="Welcome Page" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-22" value="Welcome Page" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="770" y="-960" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-23" value="Welcome to Ahmet&#39;s Online Escape Room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-22">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-23" value="Welcome to Ahmet&#39;s Online Escape Room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-22" vertex="1">
           <mxGeometry x="100" y="90" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-24" value="You must crack the code to this door and free&lt;br&gt;princess Julia. Otherwsie&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-22">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-24" value="You must crack the code to this door and free&lt;br&gt;princess Julia. Otherwsie&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-22" vertex="1">
           <mxGeometry x="70" y="140" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-32" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-22">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-32" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-22" vertex="1">
           <mxGeometry x="350" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-26" value="Welcome Page" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-26" value="Welcome Page" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="1350" y="-960" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-27" value="Welcome to Ahmet&#39;s Online Escape Room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-26">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-27" value="Welcome to Ahmet&#39;s Online Escape Room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-26" vertex="1">
           <mxGeometry x="100" y="90" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-26">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-26" vertex="1">
           <mxGeometry x="70" y="140" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-29" value="You&#39;re an undercover agent and are told&lt;br&gt;that you must crack the code to this door,&lt;br&gt;otherwise your country will be in peril.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-26">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-29" value="You&#39;re an undercover agent and are told&lt;br&gt;that you must crack the code to this door,&lt;br&gt;otherwise your country will be in peril.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-26" vertex="1">
           <mxGeometry x="125" y="175" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-33" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-26">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-33" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-26" vertex="1">
           <mxGeometry x="350" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CDA5UXkGIZM0-HjCLZbo-26">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="CDA5UXkGIZM0-HjCLZbo-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1200" y="-660" as="sourcePoint" />
             <mxPoint x="1360" y="-800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CDA5UXkGIZM0-HjCLZbo-42" target="CDA5UXkGIZM0-HjCLZbo-47">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CDA5UXkGIZM0-HjCLZbo-42" target="CDA5UXkGIZM0-HjCLZbo-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="-300" as="sourcePoint" />
             <mxPoint x="660" y="-300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-37" value="Are you ready?" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-37" value="Are you ready?" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="1350" y="-530" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-39" value="Are you ready to take on the challenge?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-37">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-39" value="Are you ready to take on the challenge?" style="rounded=0;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-37" vertex="1">
           <mxGeometry x="70" y="140" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-41" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-37">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-41" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-37" vertex="1">
           <mxGeometry x="350" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-42" value="Riddle 1" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-42" value="Riddle 1" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="770" y="-530" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-43" value="Decrypt this code to get closer to solving the puzzle." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-42">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-43" value="Decrypt this code to get closer to solving the puzzle." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-42" vertex="1">
           <mxGeometry x="105" y="110" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-42">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-42" vertex="1">
           <mxGeometry x="70" y="140" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-45" value="ASDFJEA3KFASDLKJSDF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-42">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-45" value="ASDFJEA3KFASDLKJSDF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-42" vertex="1">
           <mxGeometry x="160" y="180" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-57" value="&lt;font color=&quot;#bababa&quot;&gt;Solution&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-42">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-57" value="&lt;font color=&quot;#bababa&quot;&gt;Solution&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-42" vertex="1">
           <mxGeometry x="125" y="210" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#BABABA;" edge="1" parent="1" source="CDA5UXkGIZM0-HjCLZbo-47" target="CDA5UXkGIZM0-HjCLZbo-58">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#BABABA;" parent="1" source="CDA5UXkGIZM0-HjCLZbo-47" target="CDA5UXkGIZM0-HjCLZbo-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-47" value="Riddle 2" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-47" value="Riddle 2" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="190" y="-530" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-47">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-47" vertex="1">
           <mxGeometry x="80" y="140" width="340" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-63" value="&lt;font color=&quot;#bababa&quot;&gt;Enter with first letter as a capital&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-47">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-63" value="&lt;font color=&quot;#bababa&quot;&gt;Enter with first letter as a capital&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-47" vertex="1">
           <mxGeometry x="135" y="290" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-68" value="Find where this photograph was taken" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-47">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-68" value="Find where this photograph was taken" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-47" vertex="1">
           <mxGeometry x="140" y="110" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-52" value="Riddle 3" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-52" value="Riddle 3" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="770" y="-80" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-53" value="Welcome to Ahmet&#39;s Online Escape Room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-52">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-53" value="Welcome to Ahmet&#39;s Online Escape Room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-52" vertex="1">
           <mxGeometry x="100" y="90" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-52">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-52" vertex="1">
           <mxGeometry x="70" y="140" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-55" value="You&#39;re an undercover agent and are told&lt;br&gt;that you must crack the code to this door,&lt;br&gt;otherwise your country will be in peril.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-52">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-55" value="You&#39;re an undercover agent and are told&lt;br&gt;that you must crack the code to this door,&lt;br&gt;otherwise your country will be in peril.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-52" vertex="1">
           <mxGeometry x="125" y="175" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-56" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-52">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-56" value="Next" style="rounded=1;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-52" vertex="1">
           <mxGeometry x="350" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-58" value="Riddle 3" style="swimlane;" vertex="1" parent="1">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-58" value="Riddle 3" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="190" y="-70" width="480" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-59" value="Call the correct number. Number is&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-58">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-59" value="Call the correct number. Number is&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-58" vertex="1">
           <mxGeometry x="140" y="100" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-58">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-58" vertex="1">
           <mxGeometry x="70" y="140" width="350" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-61" value="v&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-58">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-61" value="v&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="CDA5UXkGIZM0-HjCLZbo-58" vertex="1">
           <mxGeometry x="230" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CDA5UXkGIZM0-HjCLZbo-64" value="&lt;font color=&quot;#bababa&quot;&gt;Solution&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CDA5UXkGIZM0-HjCLZbo-58">
+        <mxCell id="CDA5UXkGIZM0-HjCLZbo-64" value="&lt;font color=&quot;#bababa&quot;&gt;Solution&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="CDA5UXkGIZM0-HjCLZbo-58" vertex="1">
           <mxGeometry x="135" y="280" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
