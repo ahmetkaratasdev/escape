@@ -1,0 +1,13 @@
+.riddle-container {
+    height: auto;
+    padding: 20px;
+}
+
+.riddle {
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.riddle:hover {
+    border: 1pt solid black;
+}

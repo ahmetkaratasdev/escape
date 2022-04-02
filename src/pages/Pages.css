@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(240, 240, 240);
+
+    /* background-color: black; */
+  }
+  
+.layout {
+    text-align: center;
+    margin: 4rem;
+    font-size: 20pt;
+
+    justify-content: center;
+}
+
+.riddleContainer {
+    height: auto;
+    padding: 20px;
+}
+
+.riddle {
+    padding: 20px;
+    /* margin: 20px;
+ height: 2rem; */
+    border-radius: 20px;
+}
+
+.riddle:hover {
+    border: 1pt solid black;
+}
+
+  
