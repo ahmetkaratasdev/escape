@@ -2,8 +2,8 @@ import InfoBox from "../components/InfoBox";
 
 const InfoPage2 = () => {
 
-    const text = "Princess Julia has been kidnapped and was trapped in " +
-    "this room by a malicious predator called Rengar.";
+    const text = "Princess Julia has been kidnapped and trapped in " +
+    "a room by a malicious predator called Rengar.";
      
     return (
         <div className="layout">

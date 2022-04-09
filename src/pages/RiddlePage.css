@@ -4,3 +4,24 @@
     padding-bottom: 2rem;
 }
 
+.riddles {
+    display: flex;
+    justify-content: center;
+}
+
+.riddle1 {
+    position: absolute;
+    left: 20px;
+}
+
+.riddle2 {
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
+.riddle3 {
+    align-items: flex-end;
+    align-content: flex-end;
+    align-self: flex-end;
+}

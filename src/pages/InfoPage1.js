@@ -3,7 +3,6 @@ import './Pages.css'
 import InfoBox from '../components/InfoBox'
 
 const text = "You made it! We need your help desperately!"
-
 const InfoPage1 = () => {
   return (
     <div className="layout">

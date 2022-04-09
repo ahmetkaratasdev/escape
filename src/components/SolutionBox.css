@@ -1,3 +1,18 @@
-/* .solution-box {
+.solution-label {
+    display: flex;
+    margin-top: 2rem;
+    /* width: calc(100% - 10rem); */
+}
 
-} */
+.solution-box {
+    display: flex;
+    width: 100%;
+}
+
+.solution-submit {
+    width: 10rem;
+}
+
+
+
+
