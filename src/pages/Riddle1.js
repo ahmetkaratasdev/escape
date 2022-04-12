@@ -6,7 +6,7 @@ function Riddle1() {
     const text = "gurahzorevfuvqqravagurarkggnfx";
     const solution = "thenumberishiddeninthenexttask";
     const correctText = "Correct! This solution will come in handy for future riddles!"
-
+    
     return (
         <div className="layout">
             <h1>Riddle 1</h1>
@@ -17,4 +17,5 @@ function Riddle1() {
     )
 }
 
+// there's a question in the labs that's about useLocalStorage
 export default Riddle1;

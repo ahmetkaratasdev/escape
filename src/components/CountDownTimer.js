@@ -1,6 +1,7 @@
 
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
+import './CountDownTimer.css';
 
 const CountDownTimer = ({hoursMinSecs}) => {
    
@@ -26,10 +27,17 @@ const CountDownTimer = ({hoursMinSecs}) => {
 
     
     return (
-        <div>
-            <p>{`${mins
-            .toString()
-            .padStart(2, '0')}:${secs.toString().padStart(2, '0')}`}</p> 
+        <div className="timer">
+            <div className="timer-container">
+                <div className='timer-inner'>
+                    {`${mins
+                    .toString()
+                    .padStart(2, '0')}:${secs.toString().padStart(2, '0')}`}
+                </div>
+                <div className='timer-bottom'>
+                    minutes remaining
+                </div>
+            </div>
         </div>
     );
 }

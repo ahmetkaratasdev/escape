@@ -10,7 +10,7 @@ function Riddle3() {
         <div className="layout">
             <h1>Riddle 3</h1>
             <div className="riddle-text">Call the correct number </div>
-            <BackButton pathBack='../riddlepage' />
+            <BackButton pathBack='../riddlepage' riddle3='true' />
             <div>
                 <img className="gates-image" src={require("../images/phone.jpeg")} alt={"Image of a locked gate"}/>
             </div>

@@ -14,7 +14,6 @@ function HomePage() {
             <div>
                 <img className="gates-image" src={require("../images/orangeGate.jpeg")} alt={"Image of a locked gate"}/>
             </div>
-            
         </div>
       )
 }

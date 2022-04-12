@@ -1,0 +1,27 @@
+.exampleAni {
+  margin-top: 6rem;
+  height: 200px;
+  width: 200px;
+  background-color: rgb(16, 213, 118);
+  /* transform: skew(-30deg); */
+  display: flex;
+  justify-content: center;
+  font-size: 30pt;
+}
+
+.exampleAni {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    transform: skew(40deg, 30deg);
+  }
+
+  to {
+    margin-left: 0%;
+    /* width: 300%; */
+  }
+}

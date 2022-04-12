@@ -1,0 +1,42 @@
+.timer {
+  display: flex;
+  width: 100%;
+  /* background-color: rgb(73, 226, 53); */
+  text-align: center;
+  justify-content: center;
+}
+
+.timer-container {
+  display: flex;
+  flex-direction: column;
+  border: 1pt solid black;
+  border-radius: 10px;
+
+}
+
+.timer-inner {
+  /* display: absolute; */
+  border-radius: 8px 8px 0 0;
+  background-color: rgb(64, 197, 64);
+  display: flex;
+  font-size: 20pt;
+  align-self: center;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 50px;
+  animation: example 5s alternate;
+}
+
+.timer-bottom {
+  width: 200px;
+  border-radius: 0 0 8px 8px;
+  align-self: center;
+  background-color: rgb(247, 245, 241);
+}
+
+@keyframes example {
+  0% {background-color: rgb(64, 197, 64); left: 0px;}
+  100% {background-color: red; left: 100%;}
+}

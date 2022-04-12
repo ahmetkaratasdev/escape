@@ -1,10 +1,13 @@
 import "./Riddle.css"
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 function Riddle(props) {
+
+    const navigate = useNavigate();
+
     return (
-        <div className="riddle-container">
-            <Link to={props.path} className="riddle">{props.text}</Link>
+        <div className="riddle-container" onClick={() => navigate(props.path)}>
+            {props.text}
         </div>
     )
 }

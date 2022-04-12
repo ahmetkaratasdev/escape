@@ -15,7 +15,6 @@ function SolutionBox(props) {
             setCorrect(true);
             if (props.solution === '6232427227') {
                 navigate('../../success')
-                // setTimeout(() => navigate('../../success'), 3000);
             }
         } else {
             setCorrect(false);
@@ -49,5 +48,9 @@ export default SolutionBox;
 
 /*
     1. Keep madagascar tab there when I'm doing it
+    2. Do I need to have the ReactDOM.render, what does <Outlet> do?
+
+    Things I gotta do:
+    - Have a "give up" button at the top
 
 */

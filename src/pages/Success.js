@@ -9,6 +9,7 @@ function Success() {
     return (
         <div className="layout">
             <InfoBox text={text} pathNext='/' pathBack='' nextText={'Start again'} />
+
         </div>
       )
 }

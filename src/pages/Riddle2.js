@@ -6,7 +6,6 @@ function Riddle2() {
     let text = 'Your academia music wizards nausea abandoning grampa aged ' +
     'zebra arm abs alveoli adoring kuala angel of crane accomplish giant'
 
-    // text += 'lol';
     const solution = "madagascar";
     const correctText = "Correct! This solution will come in handy for future riddles";
 

@@ -1,11 +1,17 @@
 import React from 'react';
 import './BackButton.css'
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 function BackButton(props) {
+
+    const navigate = useNavigate();
+
+
+    const moveButton = props.riddle3 ? ' BackButtonTop' : '';
+
     return (
-        <div className="BackButton">
-            <Link to={props.pathBack} className="btn btn-secondary">Back</Link>
+        <div className={`BackButton${moveButton}`} onClick={() => navigate(props.pathBack)}>
+            Back
         </div>
     )
 }

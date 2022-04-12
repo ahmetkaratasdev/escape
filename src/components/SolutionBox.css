@@ -10,9 +10,30 @@
 }
 
 .solution-submit {
-    width: 10rem;
+    width: 7rem;
+    /* height: 40px; */
+    margin-left: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #3e8e41;
+
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 3px #999;
 }
 
+/* .form-control {} */
+
+.solution-submit:hover {background-color: #3e8e41}
+
+.solution-submit:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
 
 
 

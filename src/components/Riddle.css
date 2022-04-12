@@ -1,6 +1,17 @@
 .riddle-container {
+    margin: 10px 10px 0 10px;
     height: auto;
     padding: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #04AA6D;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
 }
 
 .riddle {
@@ -8,12 +19,15 @@
     border-radius: 20px;
 }
 
-.riddle1 {
-    align-items: flex-end;
-    align-content: flex-end;
-    justify-content: flex-end;
-}
-
 .riddle:hover {
     border: 1pt solid black;
 }
+
+
+.riddle-container:hover {background-color: #3e8e41}
+
+.riddle-container:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
