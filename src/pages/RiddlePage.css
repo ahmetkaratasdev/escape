@@ -11,24 +11,6 @@
     justify-content: center;
 }
 
-.riddles {
-    animation-duration: 1s;
-    animation-name: slideInLeft;
-  }
-  
-@keyframes slideInLeft {
-    /* from {
-        margin-right: 100%;
-        transform: skew(-20deg, -10deg);
-    }
-
-    to {
-        margin-right: 0%;
-    } */
-
-    0%   { transform: skew(-20deg, -10deg); margin-right: 100%; }
-    100% { margin-right: 0%; }
-}
 
 .riddle1 {
     position: absolute;

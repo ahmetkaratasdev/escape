@@ -8,7 +8,7 @@ function NextButton(props) {
 
     const navigate = useNavigate();
     return (
-        <div className="NextButton" onClick={() => navigate(props.pathNext)}>
+        <div className="NextButton" onClick={() => navigate(props.pathNext, {state: {direction: props.direction}})}>
             {props.nextText}
         </div>
     )

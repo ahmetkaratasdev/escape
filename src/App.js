@@ -30,12 +30,6 @@ export default function App() {
           <Route path="/infopage4" element={<InfoPage4 />}></Route>
           <Route path="/infopage5" element={<InfoPage5 />}></Route>
           <Route path="/gameroutes/*" element={<GameRoutes />}></Route>
-          <Route path="/example" element={<Example />}></Route>
-          {/*<Route path="/homepage" element={<HomePage />}></Route>
-          <Route path="/riddlepage" element={<RiddlePage />}></Route>
-          <Route path="/riddle1" element={<Riddle1 />}></Route>
-          <Route path="/riddle2" element={<Riddle2 />}></Route>
-          <Route path="/riddle3" element={<Riddle3 />}></Route>*/}
           <Route path="/success" element={<Success />}></Route>
           <Route path="/failure" element={<Failure />}></Route> 
 
