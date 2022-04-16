@@ -2,6 +2,14 @@ import React from "react";
 import styled, { keyframes, css } from 'styled-components';
 import './SlideAnimation.css'
 
+export const Animation = styled.div`
+  animation-duration: 0.5s;
+  ${props => props.direction
+    ? css`animation-name: ${props.direction}` 
+    : css`animation-name: slideInRight`}
+  
+`
+
 const slideInRight = keyframes`
   from {
     transform: translateX(100%);
@@ -23,29 +31,6 @@ const slideInLeft = keyframes`
   }
 `;
 
-
-
-const slideOutRight = keyframes`
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(-100%);
-  }
-`;
-
-
-
-const slideOutLeft = keyframes`
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(100%);
-  }
-`;
 
 export const TextBox = styled.div`
   display: flex;

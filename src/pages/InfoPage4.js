@@ -2,7 +2,7 @@ import { useLocation } from "react-router-dom";
 import InfoBox from '../components/InfoBox';
 const InfoPage4 = () => {
   const location = useLocation()
-  const text = "The door howver is locked and can only be opened " +
+  const text = "The door however is locked and can only be opened " +
   "when someone solves its three riddles.";
 
   return (
